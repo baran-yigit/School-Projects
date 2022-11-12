@@ -1,3 +1,3 @@
 # School-Projects
 
-Wanted to share all of my projects that I/we developed.
+Wanted to share some of my projects that I/we developed.
